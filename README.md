@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains synthetic support data from a global payroll platform processing 5,000+ monthly tickets across 150+ countries. The challenge: build a system that identifies at-risk customers more effectively than sentiment analysis alone.
+This repository contains synthetic support data from a global payroll platform processing 5,000+ monthly tickets across 150+ countries. The challenge: build a system that identifies at-risk customers. 
 
 ## Business Context
 
